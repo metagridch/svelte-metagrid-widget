@@ -1,6 +1,6 @@
 {
 	"name": "@metagrid/svelte-metagrid-widget",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "svelte metagrid component",
 	"private": false,
 	"publishConfig": {
